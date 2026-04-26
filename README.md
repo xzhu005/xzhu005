@@ -27,3 +27,13 @@
   <img src="assets/docker-plain-wordmark.svg" height="50" width="50" alt="docker" title="docker" />  
 </p>
 
+### **Frameworks & Libraries:**  
+
+<p>
+  <img src="assets/dotnetcore-original.svg" height="50" width="50" alt=".NET Core" title=".NET Core" />
+  <img src="assets/communityIcon_19sk0x18irz41.png" height="50" width="50" alt=".NET Core" title=".NET MAUI" />
+  <img src="assets/blazor-original.svg" height="50" width="50" alt="Blazor" title="Blazor" />
+  <img src="assets/entityframeworkcore-original.svg" height="50" width="50" alt="Entity Eramework Core" title="Entity Eramework Core" />
+  <img src="assets/playwright-original.svg" height="50" width="50" alt="Playwright" title="Playwright" />
+</p>
+
