@@ -37,3 +37,13 @@
   <img src="assets/playwright-original.svg" height="50" width="50" alt="Playwright" title="Playwright" />
 </p>
 
+### **Databases:**  
+
+<p>
+  <img src="assets/microsoftsqlserver-original.svg" height="50" width="50" alt="SQL Server" title="SQL Server" />
+  <img src="assets/azuresqldatabase-original.svg" height="50" width="50" alt="Azure SQL" title="Azure SQL" />
+  <img src="assets/mysql-original.svg" height="50" width="50" alt="My SQL" title="My SQL" />
+  <img src="assets/postgresql-original.svg" height="50" width="50" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="assets/sqlite-original.svg" height="50" width="50" alt="SQLite" title="SQLite" />
+</p>
+
