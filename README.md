@@ -47,3 +47,10 @@
   <img src="assets/sqlite-original.svg" height="50" width="50" alt="SQLite" title="SQLite" />
 </p>
 
+### **Cloud Platforms:**  
+
+<p>
+  <img src="assets/azure-original.svg" height="50" width="50" alt="Azure" title="Azure" />
+  <img src="assets/amazonwebservices-plain-wordmark.svg" height="50" width="50" alt="Amazon Web Services " title="Amazon Web Services " />
+</p>
+
