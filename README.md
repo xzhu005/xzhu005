@@ -12,3 +12,18 @@
   <img src="assets/markdown-original.svg" height="50" width="50" alt="Markdown" title="Markdown" />
   <img src="assets/terraform-original-wordmark.svg" height="50" width="50" alt="Terraform" title="TerraForm" />
 </p>
+
+### **Tools:**  
+
+<p>
+  <img src="assets/visualstudio-original.svg" height="50" width="50" alt="Visual Studio" title="Visual Studio" />
+  <img src="assets/vscode-original.svg" height="50" width="50" alt="Visual Studio Code" title="Visual Studio Code" />
+  <img src="assets/git-original.svg" height="50" width="50" alt="Git" title="Git" />
+  <img src="assets/azuredevops-original.svg" height="50" width="50" alt="Azure DevOps" title="Azure DevOps" />
+  <img src="assets/github-original.svg" height="50" width="50" alt="GitHub" title="GitHub" />
+  <img src="assets/figma-original.svg" height="50" width="50" alt="Figma" title="Figma" />
+  <img src="assets/postman-original.svg" height="50" width="50" alt="Postman" title="Postman" />
+  <img src="assets/hyperv-original.svg" height="50" width="50" alt="Hyper-V" title="Hyper-V" />
+  <img src="assets/docker-plain-wordmark.svg" height="50" width="50" alt="docker" title="docker" />  
+</p>
+
